@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/b5/d3/69/b5d3692a872936d05a3d770e5327c6ec.gif" alt="Fully Connected GIF" width="75%" height="75%" />
+  <img src="https://i.pinimg.com/originals/b5/d3/69/b5d3692a872936d05a3d770e5327c6ec.gif" alt="Fully Connected GIF" width="65%" height="65%" />
 </p>
 
 <h1 align="left">Hi, I'm Solomon 👋</h1>
