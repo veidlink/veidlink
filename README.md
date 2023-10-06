@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/b5/d3/69/b5d3692a872936d05a3d770e5327c6ec.gif" alt="Fully Connected GIF" width="65%" height="65%" />
-</p>
-
 <h1 align="left">Hi, I'm Solomon 👋</h1>
 <h3 align="left">A skillful data scientist proficient in NLP, computer vision and machine learning</h3>
 
