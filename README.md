@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://media.tenor.com/VyEOoCF8MIEAAAAd/neural-network.gif" alt="Fully Connected GIF" width="50%" height="50%" />
+  <img src="https://media.tenor.com/VyEOoCF8MIEAAAAd/neural-network.gif" alt="Fully Connected GIF" width="65%" height="65%" />
 </p>
 
-<h1 align="center">Hi, I'm Solomon 👋</h1>
-<h3 align="center">A skillful data scientist proficient in NLP, computer vision and machine learning</h3>
+<h1 align="left">Hi, I'm Solomon 👋</h1>
+<h3 align="left">A skillful data scientist proficient in NLP, computer vision and machine learning</h3>
 
 - 💬 My Telegram: **t.me/veidlink**
 
