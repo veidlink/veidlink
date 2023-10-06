@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://images.squarespace-cdn.com/content/v1/5800c6211b631b49b4d63657/1517072201941-37JOI5UBDVSD7I4IBF0W/fullyconnected_525.gif" alt="Fully Connected GIF" />
+</p>
+
 <h1 align="center">Hi, I'm Solomon 👋</h1>
 <h3 align="center">A skillful data scientist proficient in NLP, computer vision and machine learning</h3>
 
