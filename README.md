@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/VyEOoCF8MIEAAAAd/neural-network.gif" alt="Fully Connected GIF" width="65%" height="65%" />
+  <img src="https://media.tenor.com/VyEOoCF8MIEAAAAd/neural-network.gif" alt="Fully Connected GIF" width="55%" height="55%" />
 </p>
 
 <h1 align="left">Hi, I'm Solomon 👋</h1>
