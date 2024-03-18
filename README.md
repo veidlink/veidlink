@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Solomon 👋</h1>
-<h3 align="left">A skillful data scientist proficient in NLP, computer vision and machine learning</h3>
+<h3 align="left">A skillful data scientist proficient in NLP and machine learning</h3>
 
 - 💬 [My Telegram](https://t.me/veidlink)
   
