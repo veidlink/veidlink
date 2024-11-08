@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Salman 👋</h1>
 <h3 align="left">A skillful data scientist proficient in NLP and machine learning</h3>
 
-- 💬 [My Telegram](https://t.me/veidlink)
+- 💬 [My Telegram](https://t.me/srchakaev)
   
 - 📫 My email: **srchakaev@edu.hse.ru**
 
